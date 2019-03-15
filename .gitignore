@@ -1,0 +1,7 @@
+.Python
+.idea
+bin
+lib
+*.h5
+pip-selfcheck.json
+pyvenv.cfg
